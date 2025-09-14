@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Magic Tool V1 ",
+  "description": "Công cụ chỉnh sửa ảnh PRO TGDESIGN",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
